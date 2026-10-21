@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zk13713748677-debug.github.io/shangpinhui-backglass/sitemap.xml
